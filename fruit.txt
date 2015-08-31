@@ -8,3 +8,5 @@ plum
 kiwi
 date
 strawberry
+pear
+

@@ -11,3 +11,4 @@ strawberry
 pear
 melon
 blueberry
+pineapple
